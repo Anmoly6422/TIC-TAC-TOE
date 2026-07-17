@@ -1,10 +1,12 @@
 # 🎮 Tic Tac Toe
 
+A modern and interactive **Tic Tac Toe** game built with **React Native** and **TypeScript**. Challenge a friend in a classic 3×3 board game with a clean, responsive interface and smooth gameplay.
+
 <div align="center">
   <img src="./images/tic.png" alt="Tic Tac Toe Banner" width="300"/>
 </div>
 
-A modern and interactive **Tic Tac Toe** game built with **React Native** and **TypeScript**. Challenge a friend in a classic 3×3 board game with a clean, responsive interface and smooth gameplay.
+
 
 ## ✨ Features
 
